@@ -65,8 +65,10 @@ Angular · .Net · Node.js · TypeScript · JavaScript · MySQL · TailwindCSS �
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nirantharika-selvachandran-91975a1b7/)  
-- [Email](mailto:your-nirantharika5@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nirantharika-selvachandran-91975a1b7/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://web.facebook.com/nirantharika.selvachandran)  
+[![Email](https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail)](mailto:your-nirantharika5@gmail.com)
 
 ---
 
