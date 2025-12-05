@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nirantharika Selvachandran
 
-**she/her · Software Engineer | Developer | Lecturer**
+**she/her · Software Engineer**
 
 <img src="https://avatars.githubusercontent.com/NirantharikaSelvachandran" width="120" />
 
