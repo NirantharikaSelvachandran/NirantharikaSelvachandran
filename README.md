@@ -2,8 +2,6 @@
 
 **she/her · Software Engineer**
 
-<img src="https://avatars.githubusercontent.com/NirantharikaSelvachandran" width="120" />
-
 ---
 
 ## 💡 About Me
