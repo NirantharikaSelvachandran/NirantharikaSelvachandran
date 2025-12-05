@@ -13,7 +13,6 @@ Passionate **Software Engineer** with over 2 years of professional experience, s
 - **MSc Advanced Software Engineering** – University of Westminster *(Reading, 2025–2026)*  
 - **BSc Computer Science & Software Engineering (First Class)** – University of Bedfordshire *(2022–2023)*  
 - **Higher Diploma in Computing & Software Engineering (Second Upper)** – ICBT Campus *(2020–2022)*  
-- **Advanced Level in Physical Science** – J/Uduppiddy American Mission College *(2017–2019)*  
 
 ---
 
