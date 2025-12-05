@@ -1,71 +1,84 @@
-# Hi there 👋 I'm Nirantharika Selvachandran
-
-**she/her · Software Engineer**
-
----
-
-## 💡 About Me
-Passionate **Software Engineer** with over 2 years of professional experience, specializing in **frontend technologies** and scalable systems. Currently pursuing an **MSc in Advanced Software Engineering** at the University of Westminster. Enthusiastic about learning new frameworks, tools, and techniques, and applying them to diverse projects.  
+# Hi there, I'm Nirantharika Selvachandran 👋
+Frontend Developer | Lecturer | Software Engineer  
+**NirantharikaSelvachandran · she/her**
 
 ---
 
-## 🎓 Education
-- **MSc Advanced Software Engineering** – University of Westminster *(Reading, 2025–2026)*  
-- **BSc Computer Science & Software Engineering (First Class)** – University of Bedfordshire *(2022–2023)*  
-- **Higher Diploma in Computing & Software Engineering (Second Upper)** – ICBT Campus *(2020–2022)*  
+## 👩‍💻 About Me
+I'm Nirantharika Selvachandran, a passionate **Frontend Developer** and **Lecturer** with experience in building scalable web applications and teaching future developers. With a strong background in **Angular, Node.js, Laravel, and Flutter**, I enjoy solving complex problems and creating impactful solutions.
+
+- **Current Focus:** Advancing expertise in full-stack development and cloud technologies.  
+- **Professional Interests:** Web application architecture, UI/UX design, and software engineering education.  
+- **Academic Background:** Pursuing an MSc in Advanced Software Engineering at the University of Westminster.  
+
+Feel free to reach out for collaboration, networking, or professional inquiries at **your-email@example.com**.
 
 ---
 
-## 💼 Experience
-- **Frontend Developer** – Euphoros Inc. *(Aug 2024 – Present, Toronto, Canada)*  
-  - Building scalable, responsive web applications with **Angular, Bootstrap, Tailwind CSS, Angular Material**  
-  - Optimizing performance and enhancing UI/UX  
-  - Tools: Visual Studio, Azure DevOps, TortoiseGit  
+## 🏫 Education
+- **MSc Advanced Software Engineering**  
+  University of Westminster *(2025 – 2026)*  
 
-- **Visiting Lecturer** – ICBT Campus Jaffna *(Aug 2024 – Present)*  
-  - Teaching Professional Practice module for Higher Diploma students  
-  - Covering workplace ethics, organizational structures, and software engineering methodologies  
+- **BSc Computer Science & Software Engineering (First Class)**  
+  University of Bedfordshire *(2022 – 2023)*  
 
-- **Software Developer** – SM IT Global *(Jun 2024 – Dec 2024)*  
-  - Developed ERP system for My Cargo LLC using **Laravel, MySQL, jQuery**  
-  - Enhanced UI/UX and optimized workflows  
+- **Higher Diploma in Computing & Software Engineering (Second Upper)**  
+  ICBT Campus *(2020 – 2022)*  
 
-- **Software Engineer** – Stacklint (Pvt) Ltd *(Feb 2024 – Jul 2024)*  
-  - Contributed to **Surge Ingenuity App** (React, .NET, TypeScript, Next.js, TailwindCSS)  
-  - Built e-commerce features with Angular + Laravel  
-
-- **Associate Software Engineer** – Stacklint (Pvt) Ltd *(Jan 2023 – Jan 2024)*  
-  - Developed School Management System with **Angular, NodeJS, PostgreSQL, MongoDB**  
-
-- **Web Development Intern** – Apps Lanka Software Solutions *(Apr 2023 – Dec 2023)*  
-  - Designed small-scale web apps with **Angular, Bootstrap**  
-
-- **Computer Applications Assistant** – Govt. of Sri Lanka *(Jan 2020 – Mar 2020)*  
-  - Conducted IT training in MS Word, Excel, PowerPoint, Access  
+- **Advanced Level in Physical Science**  
+  J/Uduppiddy American Mission College *(2017 – 2019)*  
 
 ---
 
-## 🚀 Projects
-- **Surge Ingenuity App** – Organ donor management system with advanced data visualization  
-- **E-commerce Website** – Full-stack app with Angular, TailwindCSS, Laravel, MySQL  
-- **School Management System** – CRUD operations, event management, document export features  
-- **Portfolio Website** – Personal portfolio showcasing skills and projects  
+## 💼 Work Experience
+**Frontend Developer** – Euphoros Inc. *(Aug 2024 – Present, Toronto, Canada)*  
+- Building responsive web apps with Angular, Bootstrap, Tailwind CSS, Angular Material.  
+- Optimizing performance and enhancing UI/UX.  
+
+**Visiting Lecturer** – ICBT Campus Jaffna *(Aug 2024 – Present)*  
+- Teaching Professional Practice module for Higher Diploma students.  
+
+**Software Developer** – SM IT Global *(Jun 2024 – Dec 2024)*  
+- Developed ERP system for My Cargo LLC using Laravel, MySQL, jQuery.  
+
+**Software Engineer** – Stacklint (Pvt) Ltd *(Feb 2024 – Jul 2024)*  
+- Contributed to Surge Ingenuity App (React, .NET, TypeScript, Next.js).  
+
+**Associate Software Engineer** – Stacklint (Pvt) Ltd *(Jan 2023 – Jan 2024)*  
+- Developed School Management System with Angular, NodeJS, PostgreSQL, MongoDB.  
+
+**Web Development Intern** – Apps Lanka Software Solutions *(Apr 2023 – Dec 2023)*  
+- Designed small-scale web apps with Angular, Bootstrap.  
+
+**Computer Applications Assistant** – Govt. of Sri Lanka *(Jan 2020 – Mar 2020)*  
+- Conducted IT training in MS Word, Excel, PowerPoint, Access.  
 
 ---
 
-## 🌐 Volunteer & Memberships
-- **Chess Mentor** – School Chess Club *(2020 – Present)*  
-- **Volunteer Developer** – Neermai.com *(2024 – Present)*  
-- **Associate Member** – Computer Society of Sri Lanka *(2025 – Present)*  
+## 🚀 Skills and Technologies
+Angular · React · Node.js · Laravel · Flutter · TypeScript · JavaScript · MySQL · PostgreSQL · MongoDB · TailwindCSS · Bootstrap · Azure DevOps · Git  
+
+---
+
+## 🏆 Certifications & Memberships
+- Associate Member – Computer Society of Sri Lanka *(2025 – Present)*  
+- Volunteer Developer – Neermai.com *(2024 – Present)*  
+- Chess Mentor – School Chess Club *(2020 – Present)*  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nirantharika-selvachandran-91975a1b7/)  
+- [Email](mailto:your-email@example.com)  
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NirantharikaSelvachandran&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirantharikaSelvachandran&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NirantharikaSelvachandran&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NirantharikaSelvachandran&layout=compact&theme=radical)  
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nirantharika-selvachandran-91975a1b7/)  
-- [Email](mailto:your-email@example.com)  
+## 💡 Fun Fact
+🎯 I love mentoring students and building apps that make everyday life easier!
