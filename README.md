@@ -1,17 +1,17 @@
 # Hi there, I'm Nirantharika Selvachandran 👋
-Frontend Developer | Lecturer | Software Engineer  
+Software Engineer  
 **NirantharikaSelvachandran · she/her**
 
 ---
 
 ## 👩‍💻 About Me
-I'm Nirantharika Selvachandran, a passionate **Frontend Developer** and **Lecturer** with experience in building scalable web applications and teaching future developers. With a strong background in **Angular, Node.js, Laravel, and Flutter**, I enjoy solving complex problems and creating impactful solutions.
+I'm Nirantharika Selvachandran, a passionate **Frontend Developer** with experience in building scalable web applications and teaching future developers. With a strong background in **Angular, C#, .Net, Node.js, and MySQL**, I enjoy solving complex problems and creating impactful solutions.
 
 - **Current Focus:** Advancing expertise in full-stack development and cloud technologies.  
 - **Professional Interests:** Web application architecture, UI/UX design, and software engineering education.  
 - **Academic Background:** Pursuing an MSc in Advanced Software Engineering at the University of Westminster.  
 
-Feel free to reach out for collaboration, networking, or professional inquiries at **your-email@example.com**.
+Feel free to reach out for collaboration, networking, or professional inquiries at **nirantharika5@gmail.com**.
 
 ---
 
@@ -23,10 +23,7 @@ Feel free to reach out for collaboration, networking, or professional inquiries 
   University of Bedfordshire *(2022 – 2023)*  
 
 - **Higher Diploma in Computing & Software Engineering (Second Upper)**  
-  ICBT Campus *(2020 – 2022)*  
-
-- **Advanced Level in Physical Science**  
-  J/Uduppiddy American Mission College *(2017 – 2019)*  
+  ICBT Campus *(2020 – 2022)*   
 
 ---
 
@@ -56,7 +53,7 @@ Feel free to reach out for collaboration, networking, or professional inquiries 
 ---
 
 ## 🚀 Skills and Technologies
-Angular · React · Node.js · Laravel · Flutter · TypeScript · JavaScript · MySQL · PostgreSQL · MongoDB · TailwindCSS · Bootstrap · Azure DevOps · Git  
+Angular · .Net · Node.js · TypeScript · JavaScript · MySQL · TailwindCSS · Bootstrap · Azure DevOps · Git  
 
 ---
 
@@ -69,7 +66,7 @@ Angular · React · Node.js · Laravel · Flutter · TypeScript · JavaScript ·
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nirantharika-selvachandran-91975a1b7/)  
-- [Email](mailto:your-email@example.com)  
+- [Email](mailto:your-nirantharika5@gmail.com)  
 
 ---
 
